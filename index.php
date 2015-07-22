@@ -10,6 +10,9 @@ $pos4 = stripos($requested_uri, '/profile/');
 //
 // removed that line!
 //
+// hello!
+//
+
 if( $pos1 !== false || $pos2 !== false || $pos3 !== false || $pos4 !== false ){ echo "true" ; } else { echo "false" ; }
 
 ?>
